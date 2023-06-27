@@ -13,7 +13,13 @@ Greetings! I'm MD MUZAHIDUL ISLAM, a passionate Software Engineer specializing i
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muzahidsife&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" width="400"> <img src="https://github-readme-stats.vercel.app/api?username=muzahidsife&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="190" width="400"> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzahidsife&show_icons=true&locale=en&layout=compact" alt="muzahidsife" /></p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzahidsife&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzahidsife&theme=jolly&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200" width="400">
+</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muzahidsife&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="muzahidsife" /></p>
+
+
 
 
 
