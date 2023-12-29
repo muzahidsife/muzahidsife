@@ -19,8 +19,8 @@ Greetings! I'm MD MUZAHIDUL ISLAM, a passionate Software Engineer specializing i
 <h2 align="center">SKILLS</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,vscode,wordpress,arduino,git,github" />
-    <img src="https://skillicons.dev/icons?i=python,django,tensorflow,mysql,html,matlab" /><br>
+    <img src="https://skillicons.dev/icons?i=python,django,tensorflow,mysql,html,matlab,c,vscode,wordpress,arduino,git,github" />
+                                              <br>
 </div>
 
 <br/>
