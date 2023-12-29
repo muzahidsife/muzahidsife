@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There;+I'm+MD+MUZAHIDUL+ISLAM;" />
 </h1>
 
-Greetings! I'm MD MUZAHIDUL ISLAM, a passionate Software Engineer specializing in Cyber Security. I am currently pursuing a degree at Daffodil International University. I am proficient in Python programming and skilled in effective communication. I have experience in Robotics Club, Taekwondo, Boy Scouts, and Debate. Let's connect and explore opportunities to make a positive impact together! 
+Greetings! I'm MD MUZAHIDUL ISLAM, currently pursuing a degree in Software Engineering at Daffodil International University. I am proficient in Python programming, NumPy, Pandas, Seaborn, Matplotlib, and OpenCV, and I possess strong skills in effective communication. I have experience in Robotics Club, Taekwondo, Boy Scouts, and Debate. Let's connect and explore opportunities to make a positive impact together! 
 
 <p align="left">
 <a href="https://linkedin.com/in/muzahidsife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muzahidsife" height="30" width="40" /></a>
