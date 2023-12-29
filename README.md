@@ -1,4 +1,7 @@
 ![Muzahid](https://pbs.twimg.com/profile_banners/4341264740/1687549275/1080x360)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There;+I'm+MD+MUZAHIDUL+ISLAM;" />
+</h1>
 
 Greetings! I'm MD MUZAHIDUL ISLAM, a passionate Software Engineer specializing in Cyber Security. I am currently pursuing a degree at Daffodil International University. I am proficient in Python programming and skilled in effective communication. I have experience in Robotics Club, Taekwondo, Boy Scouts, and Debate. Let's connect and explore opportunities to make a positive impact together! 
 
@@ -11,7 +14,17 @@ Greetings! I'm MD MUZAHIDUL ISLAM, a passionate Software Engineer specializing i
 </p>
 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+ <hr/>
+ 
+<h2 align="center">SKILLS</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,vscode,wordpress,arduino,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,django,tensorflow,mysql,html,matlab" /><br>
+</div>
+
+<br/>
+<hr/>
  
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzahidsife&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200" width="400">
